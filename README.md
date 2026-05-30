@@ -2,7 +2,7 @@
 
 HealthAI is an intelligent, containerized full-stack virtual health assistant designed to bridge the gap between conversational AI, home diagnostic screening, daily vitals tracking, and medication safety. Built with a beautiful glassmorphic UI, it operates 100% locally and cost-free, offering clinical-grade safety guards and secure data exports.
 
-🚀 **Live Interactive Demo:** [Visit your Hugging Face Space](https://huggingface.co/spaces/itachii9090/healthai-chatbot) *(Update with your direct live URL)*
+🚀 **Live Interactive Demo:** https://huggingface.co/spaces/itachii9090/healthai-chatbot
 
 ---
 
